@@ -1,6 +1,13 @@
 # cpp_concurrency_in_action
 Companion Source Code for C++ Concurrency in Action ( 1st, 2nd Edition )
 
+
+https://www.manning.com/books/c-plus-plus-concurrency-in-action
+
+
+https://github.com/anthonywilliams/ccia_code_samples
+
+
 Companion Source Code for C++ Concurrency in Action 2nd Edition
 This repository contains the source code from the second edition of C++ Concurrency in Action, by Anthony Williams.
 
